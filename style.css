@@ -1,0 +1,27 @@
+body {
+    background: #6b4cb3;
+}
+
+.mainheader {
+    color: greenyellow;
+    font-size: 64px;
+}
+
+.sectionheader
+{    color: palevioletred;
+}
+
+
+.diaryheader
+{    color: palevioletred;
+}
+
+
+p {
+    color: darkblue;
+}
+
+#pierwszasekcja
+{
+    background: hotpink
+}
